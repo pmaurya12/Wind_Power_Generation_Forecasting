@@ -48,9 +48,5 @@ pip install numpy pandas matplotlib seaborn scikit-learn
 
 ## 📊 Results  
 The notebook presents visualizations, insights, and model performance comparisons to determine the best forecasting approach.  
-
-## 👨‍💻 Author  
-**🚀🔥 Arsh**  
-
----  
+ 
  
